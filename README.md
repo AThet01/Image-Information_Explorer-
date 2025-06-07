@@ -1,4 +1,4 @@
-# Image-Information_Explorer
+# Image and Information_Explorer
 
 Image + Information Explorer App.
 
